@@ -1,4 +1,4 @@
-package Assign_prg;
+package Practice_prg;
 
 import java.util.Random;
 import java.util.Scanner;
