@@ -1,4 +1,4 @@
-package Practice_prg;
+package WEEK1.Practice_prg;
 
 public class Bmicalculator {
 

@@ -1,4 +1,4 @@
-package Assign_prg;
+package WEEK1.Assign_prg;
 
 public class MovieReviewProfiler {
 
