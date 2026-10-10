@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="062de47b-d715-4ffa-bee3-0cb36a6d4d17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/Bmicalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/FirstNonRepeatingCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/PalindromeChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/ReverseCustomerName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/RockPaperScissor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../.." value="feature/session3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JgrseGCXZ0qlobtrGy5e6Fl8XI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/session7&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Udisha Srivastava/IdeaProjects/STEP/STEP_SEM3/IdeaProjects/STEP/STEP_SEM3/pom.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="062de47b-d715-4ffa-bee3-0cb36a6d4d17" name="Changes" comment="" />
+      <created>1790093762237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790093762237</updated>
+    </task>
+    <servers />
+  </component>
+</project>
