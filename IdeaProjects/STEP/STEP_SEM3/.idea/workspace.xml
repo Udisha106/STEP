@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="062de47b-d715-4ffa-bee3-0cb36a6d4d17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice/Question5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/Bmicalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/FirstNonRepeatingCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/PalindromeChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/ReverseCustomerName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_prg/RockPaperScissor.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assign/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assign/Question2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
